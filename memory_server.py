@@ -11,7 +11,11 @@ from urllib.parse import parse_qs
 
 # ==========================================
 # 🛑 1. 你的 Obsidian 仓库路径
+<<<<<<< HEAD
 OBSIDIAN_VAULT_PATH = r"C:\Users\CSL\Desktop\260221" 
+=======
+OBSIDIAN_VAULT_PATH = r"/www/The Ravens Nest/Obsidian_Vault/260221" 
+>>>>>>> cfaaa47622cb546c35a945a70d71674d288b57a9
 
 # 🛑 2. 黑名单禁区 (确保没有 ChatLogs！)
 EXCLUDE_FOLDERS = ["未整理聊天记录"]
